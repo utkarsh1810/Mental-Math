@@ -1,6 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Mental-Math ⚡️
 
-## Available Scripts
+<p align="center"> 
+  <kbd>
+<img src="/screenshots/logo"></img>
+  </kbd>
+</p>
+
+## A clean, beautiful and responsive react-application for your mental math ability.! 
+
+## Build with 🔧
+ * React  -Front-end frame work to develop one page applications.
+ * Bootstrap  -Contains predefined classes to create responsive websites.
+
+
 
 In the project directory, you can run:
 
