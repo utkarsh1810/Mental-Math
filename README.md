@@ -1,5 +1,4 @@
-# Mental-Math ⚡️
-
+# Mental-Math ⚡️ ![GitHub](https://img.shields.io/github/license/utkarsh1810/Mental-Math?color=grren&style=plastic)
 <p align="center"> 
   <kbd>
 <img src="screenshots/logo.jpeg"></img>
