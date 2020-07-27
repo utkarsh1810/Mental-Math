@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="/screenshots/logo"></img>
+<img src="screenshots/logo.jpeg"></img>
   </kbd>
 </p>
 
@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="/screenshots/layout"></img>
+<img src="screenshots/layout.png"></img>
   </kbd>
 </p>
 
