@@ -33,10 +33,10 @@ npm start
 ```
 ## Deployment 📦 
 Application is deploy with the help of free open source platform netlify
-* Again you can check it out [here](https://gifted-panini-6a6e9c.netlify.app/)
+* Again you can check it [here](https://gifted-panini-6a6e9c.netlify.app/)
 
 ## Contributors ✨
-Right now complete application is developed by myself.
+The entire application has just been developed by itself<br/>
 But any new suggestion and contributions are always appreciated.
 
 ## License 📄
